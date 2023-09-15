@@ -6,6 +6,8 @@
 - 📫 You can reach me via linkedin. https://www.linkedin.com/in/mustafayasingunduz/
 - My youtube adress is https://www.youtube.com/@mylinear
 - You can also find my tutorials on https://www.youtube.com/@claruswayglobal
+- I have solved most of HackerRank Questions about python and SQL. You can review my Hackerrank profile from this link
+https://www.hackerrank.com/MyLinear
 <!---
 Mylinear/Mylinear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
